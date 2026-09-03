@@ -1,17 +1,6 @@
-# flutter_application_1
+projek mini
+Klik link di bawah ini untuk menonton video Sistem Penilaian Mahasiswa Sederhana dengan Dart :
+[Tonton Video Projek di YouTube](https://youtu.be/1_XpByZMj18?si=8wkfEzE7aYUmE6be)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Klik link di bawah ini untuk menonton video Aplikasi Katalog Buku Perpustakaan Mini - Flutter & Dart:
+[Tonton Video Demo Projek di YouTube](https://youtu.be/zXbG3FV1pO4?si=h3DteLrEDuTIWdqo)
